@@ -1,0 +1,11 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name = "Duco suite">
+    <test name = "all tests">
+        <classes>
+            <class name = "duco.tests.GoogleTests" />
+            <class name = "duco.tests.HomeTests" />
+        </classes>
+    </test>
+</suite>
